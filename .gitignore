@@ -1,5 +1,5 @@
 
-.idea/
+#.idea/
 out.dat
 data
 ### JetBrains template
@@ -166,3 +166,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+.idea/
